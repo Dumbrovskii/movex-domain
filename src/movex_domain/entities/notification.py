@@ -7,8 +7,7 @@ from movex_domain.enums.notification_type import NotificationType
 class Notification:
     id: int
     user_id: int
-    type: NotificationType
     title: str
     message: str
+    is_read: bool
     created_at: datetime
-    read_at: datetime

@@ -1,6 +1,6 @@
 [project]
 name = "movex-domain"
-version = "0.1.0"
+version = "0.1.1"
 description = "Shared domain model and business logic for MoveX services."
 readme = "README.md"
 authors = [
